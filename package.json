@@ -1,0 +1,23 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yebincho03/unit-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yebincho03/unit-test/issues"
+  },
+  "homepage": "https://github.com/Yebincho03/unit-test#readme"
+}
