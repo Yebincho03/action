@@ -1,5 +1,5 @@
 {
-  "name": "unit-test",
+  "name": "action",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yebincho03/unit-test.git"
+    "url": "git+https://github.com/Yebincho03/action.git"
   },
   "bugs": {
-    "url": "https://github.com/Yebincho03/unit-test/issues"
+    "url": "https://github.com/Yebincho03/action/issues"
   },
-  "homepage": "https://github.com/Yebincho03/unit-test#readme"
+  "homepage": "https://github.com/Yebincho03/action#readme"
 }
